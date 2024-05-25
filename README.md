@@ -10,11 +10,22 @@ This repository contains examples of assembly language programs demonstrating th
 
 
 ## For Loop
+[Replit](https://replit.com/@AljonFernando/Assembly-x64#for_loop.asm)
+[CHATGPT Explanation](https://chatgpt.com/share/637ee1f3-7fa7-4aeb-b604-2c311b841878)
+[Code](https://github.com/ennonn/loop_in_asm/blob/3f2167732bee6ea1fa8e9f2f7ada6018326a5d83/for_loop.asm)
+[Online Compiler](https://onecompiler.com/assembly/42e93mhxq)
 
 ## While Loop
+[Replit](https://replit.com/@AljonFernando/Assembly-x64#while_loop.asm)
+[CHATGPT Explanation](https://chatgpt.com/share/20bdea6c-c8c4-4959-a4a5-3ecb02f011b9)
+[Code](https://github.com/ennonn/loop_in_asm/blob/3f2167732bee6ea1fa8e9f2f7ada6018326a5d83/while_loop.asm)
+[Online Compiler](https://onecompiler.com/assembly/42e93qszd)
 
 ## Do-While Loop
-
+[Replit](https://replit.com/@AljonFernando/Assembly-x64#do-while_loop.asm)
+[CHATGPT Explanation](https://chatgpt.com/share/591fb937-e3fd-4d93-9c8d-7db068d38904)
+[Code](https://github.com/ennonn/loop_in_asm/blob/3f2167732bee6ea1fa8e9f2f7ada6018326a5d83/do-while_loop.asm)
+[Online Compiler](https://onecompiler.com/assembly/42e93v2qw)
 
 
 ## Setup and Running on these programs
@@ -28,6 +39,7 @@ You can also run these on online compiler by copy & pasting the code
 ### For Loop
 
 [Replit](https://replit.com/@AljonFernando/Assembly-x64#for_loop.asm)
+[CHATGPT Explanation](https://chatgpt.com/share/637ee1f3-7fa7-4aeb-b604-2c311b841878)
 
 ```asm
 section .data
@@ -85,6 +97,7 @@ end_for_loop:
 ## While Loop
 
 [Replit](https://replit.com/@AljonFernando/Assembly-x64#while_loop.asm)
+[CHATGPT Explanation](https://chatgpt.com/share/20bdea6c-c8c4-4959-a4a5-3ecb02f011b9)
 
 ```asm
 section .data
@@ -142,7 +155,7 @@ end_while_loop:
 ## Do-While Loop
 
 [Replit](https://replit.com/@AljonFernando/Assembly-x64#do-while_loop.asm)
-
+[CHATGPT Explanation](https://chatgpt.com/share/591fb937-e3fd-4d93-9c8d-7db068d38904)
 ```asm
 section .data
     msg db 'Do-while loop: ', 0Ah
